@@ -1,4 +1,4 @@
-![Banner](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1734077448~exp=1734081048~hmac=9b6dbc3548938c74bb7861fe5130a874999bdfa14b317d97d977efb6ba727338&w=1380)
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Geetanjali Nayak</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
