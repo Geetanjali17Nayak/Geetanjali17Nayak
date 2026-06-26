@@ -93,19 +93,17 @@ I'm passionate about building scalable web applications and GIS solutions that s
 
 ## 🐍 Contribution Snake
 
-> **Note:** This image will only appear after you configure the GitHub Action that generates the snake animation.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Geetanjali17Nayak/Geetanjali17Nayak/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Geetanjali17Nayak/Geetanjali17Nayak/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: https://YOUR_PORTFOLIO
+- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/geetanjali-nayak-474403251/)
+- 📧 Email: geetanjalinayak580@gmail.com
+
 
 ---
 
