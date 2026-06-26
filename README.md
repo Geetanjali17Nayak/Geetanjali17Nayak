@@ -1,31 +1,133 @@
-![Header](github-header-image (1).png)
-<h1 align="center">Hi 👋, I'm Geetanjali Nayak</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+# Hi 👋, I'm Ayush Mishra
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqm3WYr1vgqG-u3xol6tbHW-JFeiTNhcGfA&s">
+### 🚀 Backend Developer | Product Builder
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geetanjali17nayak&label=Profile%20views&color=0e75b6&style=flat" alt="geetanjali17nayak" /> </p>
+I'm passionate about building scalable backend applications and creating products that solve real-world problems. I enjoy learning new technologies, designing clean APIs, and continuously improving my software engineering skills.
 
-- 🔭 I’m currently working on **DishDash**
+---
 
-- 🌱 I’m currently learning **Django REST Framework**
+## 👨‍💻 About Me
 
-- 💬 Ask me about **Data Structures and Algorithm , Django Python framework , SQL**
+* 🔭 Currently working on Backend Development using **Node.js** & **NestJS**
+* 🌱 Learning **Cloud Computing**, **DevOps**, and **System Design**
+* 💡 Interested in Backend Architecture, Distributed Systems, and AI Applications
+* ⚡ Love solving Data Structures & Algorithms problems
+* 🎯 Goal: Become a Product Engineer
 
-- 📫 How to reach me **geetanjalinayak5802gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19ax3dCH9hmyT0vru0qvB-zibbld3ljEV/view?usp=sharing](https://drive.google.com/file/d/19ax3dCH9hmyT0vru0qvB-zibbld3ljEV/view?usp=sharing)
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/geetanjali-nayak-474403251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geetanjali-nayak-474403251/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/geetanjali_nayak_17/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/geetanjali_nayak_17/?__pwa=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/geetanjalinayak580/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/geetanjalinayak580/" height="30" width="40" /></a>
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
+
+---
+
+## 📂 Featured Projects
+
+* 🤖 RAG AI Chatbot
+* 🍽️ DishDash – Food Ordering Platform
+* 🅿️ AI-Based Autonomous Parking System
+* 🔐 Authentication API (NestJS + JWT)
+* 🛒 E-Commerce Backend
+* 🌐 Full Stack Web Applications
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geetanjali17nayak&show_icons=true&locale=en&layout=compact" alt="geetanjali17nayak" /></p>
+## 💻 Most Used Languages
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geetanjali17nayak&show_icons=true&locale=en" alt="geetanjali17nayak" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* 🌍 Portfolio: https://YOUR_PORTFOLIO.com
+* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+### 💬 Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
