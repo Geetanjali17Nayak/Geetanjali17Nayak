@@ -1,15 +1,15 @@
-# Hi 👋, I'm Ayush Mishra
+# Hi 👋, I'm Geetanjali Nayak
 
-### 🚀 Backend Developer | Product Builder
+### 🚀 Full Stack Developer | GIS Developer | Lifelong Learner
 
-I'm passionate about building scalable backend applications and creating products that solve real-world problems. I enjoy learning new technologies, designing clean APIs, and continuously improving my software engineering skills.
+I'm passionate about building scalable web applications and GIS solutions that solve real-world problems. I enjoy developing robust backend systems, creating intuitive user experiences, and continuously learning modern technologies to grow as a software engineer.
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🔭 Currently working on Backend Development using **Node.js** & **NestJS**
-* 🌱 Learning **Cloud Computing**, **DevOps**, and **System Design**
+* 🌱 Learning **System Design** and **GIS Concepts**
 * 💡 Interested in Backend Architecture, Distributed Systems, and AI Applications
 * ⚡ Love solving Data Structures & Algorithms problems
 * 🎯 Goal: Become a Product Engineer
@@ -60,9 +60,8 @@ I'm passionate about building scalable backend applications and creating product
 
 * 🤖 RAG AI Chatbot
 * 🍽️ DishDash – Food Ordering Platform
-* 🅿️ AI-Based Autonomous Parking System
 * 🔐 Authentication API (NestJS + JWT)
-* 🛒 E-Commerce Backend
+*🏠 NestFinder – Full Stack Property Rental Application
 * 🌐 Full Stack Web Applications
 
 ---
@@ -70,8 +69,8 @@ I'm passionate about building scalable backend applications and creating product
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=/Geetanjali17NayakE&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=/Geetanjali17Nayak&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -79,7 +78,7 @@ I'm passionate about building scalable backend applications and creating product
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/Geetanjali17Nayak&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -87,7 +86,7 @@ I'm passionate about building scalable backend applications and creating product
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username/Geetanjali17Nayak&theme=tokyonight&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -95,7 +94,7 @@ I'm passionate about building scalable backend applications and creating product
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=/Geetanjali17Nayak&theme=tokyo-night"/>
 </p>
 
 ---
@@ -103,7 +102,7 @@ I'm passionate about building scalable backend applications and creating product
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com//Geetanjali17Nayak//Geetanjali17Nayak/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -119,7 +118,7 @@ I'm passionate about building scalable backend applications and creating product
 ## 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=/Geetanjali17Nayak&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
